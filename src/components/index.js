@@ -1,8 +1,15 @@
-import Nav from './Nav';
-import Button from './Button';
-import ShoeCard from './ShoeCard';
-import PopularProductCard from './PopularProductCard';
-import ReviewCard from './ReviewCard';
-import ServiceCard from './ServiceCard';
+import Button from "./Button";
+import Nav from "./Nav";
+import ShoeCard from "./ShoeCard";
+import PopularProductCard from "./PopularProductCard";
+import ServiceCard from "./ServiceCard";
+import ReviewCard from "./ReviewCard";
 
-export { Nav, Button, ShoeCard, PopularProductCard, ReviewCard, ServiceCard };
+export {
+    Button,
+    Nav,
+    ShoeCard,
+    PopularProductCard,
+    ServiceCard,
+    ReviewCard,
+}
