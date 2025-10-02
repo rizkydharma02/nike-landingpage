@@ -1,4 +1,4 @@
-# React & Tailwind V4
+# React & Tailwindcss V4
 
 ## Nike Landingpage
 
